@@ -1,6 +1,7 @@
 # PA
 PA = Projeto Alura
 
+criado para meios institucionais, no qual eu n concordo que seja útil para vida dos estudantes ficar fazendo contas em sites q mal sabemos se vamos usar e muito menos o praq, realmenete é algo desanimador e que acaba com o projeti de vida de muitos estudantes. triste d+, sabe outras coisa triste? I have a drem, discurso feito por Marthin Luther King Jr, segue aí pra vcs verem:
 "Eu estou contente em unir-me com vocês no dia que entrará para a história como a maior demonstração pela liberdade na história de nossa nação.
 
 Cem anos atrás, um grande americano, na qual estamos sob sua simbólica sombra, assinou a Proclamação de Emancipação. Esse importante decreto veio como um grande farol de esperança para milhões de escravos negros que tinham murchados nas chamas da injustiça. Ele veio como uma alvorada para terminar a longa noite de seus cativeiros.
